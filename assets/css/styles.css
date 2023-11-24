@@ -367,6 +367,16 @@ img {
   transition: transform 0.4s;
 }
 
+#wrapper-20,
+#wrapper-21,
+#wrapper-22,
+#wrapper-23,
+#wrapper-24,
+#wrapper-25,
+#wrapper-27 {
+  width: 100px;
+}
+
 .products-img:hover {
   transform: translateY(-0.35rem);
 }
