@@ -647,10 +647,17 @@ img {
 
 .treatments-name,
 .treatments-price {
-  font-size: var(--h2-font-size);
   font-family: var(--second-font);
   font-weight: var(--font-regular);
   line-height: 120%;
+}
+
+.treatments-name {
+  font-size: var(--h2-font-size);
+}
+
+.treatments-price {
+  font-size: .95rem
 }
 
 .treatments-bg-img {
